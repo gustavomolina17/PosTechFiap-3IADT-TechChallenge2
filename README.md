@@ -52,7 +52,7 @@ Redução de Custos Operacionais: Minimização da quilometragem percorrida e, c
 Otimização do Tempo de Entrega: A rota mais curta também implica menor tempo nas estradas, melhorando a eficiência da entrega.
 Melhor Alocação de Recursos: Com a rota otimizada, a empresa poderá planejar melhor sua frota de veículos e as equipes envolvidas nas entregas.
 
-# Autores
+# Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Gustavo Molina</sub>](https://github.com/gustavomolina17) 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/70485830?v=4" width=115><br><sub>Gustavo Molina</sub>](https://github.com/gustavomolina17) 
 | :---: |
