@@ -1,6 +1,7 @@
 # PosTechFiap-3IADT-TechChallenge2
 
-Case de Solução para o Problema do Caixeiro Viajante com Cidades Brasileiras
+# Case de Solução para o Problema do Caixeiro Viajante com Cidades Brasileiras
+
 Contexto do Problema
 
 Uma empresa de logística está expandindo suas operações no Brasil e busca otimizar as rotas de transporte entre seus principais centros de distribuição nas capitais estratégicas do país. O objetivo é determinar a rota mais curta para um caminhão de entregas que parta de uma cidade inicial específica — neste caso, São Paulo —, percorra todas as outras capitais (pontos de entrega) uma única vez e, ao final, retorne à cidade de origem.
@@ -50,3 +51,8 @@ A solução deve apresentar uma rota otimizada, permitindo à empresa de logíst
 Redução de Custos Operacionais: Minimização da quilometragem percorrida e, consequentemente, dos custos com combustível e manutenção.
 Otimização do Tempo de Entrega: A rota mais curta também implica menor tempo nas estradas, melhorando a eficiência da entrega.
 Melhor Alocação de Recursos: Com a rota otimizada, a empresa poderá planejar melhor sua frota de veículos e as equipes envolvidas nas entregas.
+
+# Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
