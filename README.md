@@ -40,13 +40,13 @@ A solução deve calcular a distância entre essas cidades e fornecer a rota mai
 
 <b>Proposta de Solução</b>
 
-Duas abordagens serão implementadas no algoritmo: a força bruta, que consiste em testar todas as rotas possíveis e calcular a distância total de cada uma, selecionando ao final a rota mais curta, e o método do vizinho mais próximo, que busca a solução aproximada ao escolher o ponto mais próximo a cada etapa. Com isso, será possível comparar os resultados de ambas as técnicas e avaliar qual delas oferece uma melhor solução para o problema proposto.
+Duas abordagens serão implementadas no algoritmo: ,<b>a força bruta</b>, que consiste em testar todas as rotas possíveis e calcular a distância total de cada uma, selecionando ao final a rota mais curta, e a utilização de <b>algoritmos genéticos</b> que são uma técnica de otimização inspirada na teoria da evolução natural. Com isso, será possível comparar os resultados de ambas as técnicas e avaliar qual delas oferece uma melhor solução para o problema proposto.
 
-Etapas do Projeto:
+<b>Etapas do Projeto</b>:
 
-Coleta de Dados: Utilizar as coordenadas geográficas (latitude e longitude) das cidades escolhidas para calcular as distâncias entre elas.
+<b>Coleta de Dados:</b> Utilizar as coordenadas geográficas (latitude e longitude) das cidades escolhidas para calcular as distâncias entre elas.
 
-Cálculo das Distâncias: Implementar a fórmula de Haversine, que leva em consideração a curvatura da Terra, para calcular a distância real entre duas cidades com base nas suas coordenadas geográficas.
+<b>Cálculo das Distâncias:</b> Implementar a fórmula de Haversine, que leva em consideração a curvatura da Terra, para calcular a distância real entre duas cidades com base nas suas coordenadas geográficas.
 
 Algoritmo de Solução:
     Gerar todas as permutações possíveis das cidades (exceto a cidade inicial, que será fixa).
@@ -54,6 +54,7 @@ Algoritmo de Solução:
     Retornar a permutação que tiver a menor distância total como a rota mais curta.
 
 Visualização e Relatório: Apresentar a rota mais curta encontrada pelo algoritmo, incluindo a distância total percorrida e a ordem das cidades a serem visitadas. Se necessário, também poderá ser gerada uma visualização gráfica do percurso.
+
 Resultados Esperados
 
 A solução deve apresentar uma rota otimizada, permitindo à empresa de logística:
