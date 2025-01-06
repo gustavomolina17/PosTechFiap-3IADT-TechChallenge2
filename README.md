@@ -1,6 +1,10 @@
-# PosTechFiap-3IADT-TechChallenge2 - Jan / 25
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-# Case de Solução para o Problema do Caixeiro Viajante com Cidades Brasileiras
+# <p align="center">PosTechFiap-3IADT-TechChallenge2 - Jan / 25 </p>
+
+# <p align="center">Case de Solução para o Problema do Caixeiro Viajante com Cidades Brasileiras </p>
 
 Contexto do Problema
 
@@ -54,5 +58,7 @@ Melhor Alocação de Recursos: Com a rota otimizada, a empresa poderá planejar 
 
 # Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/70485830?v=4" width=115><br><sub>Gustavo Molina</sub>](https://github.com/gustavomolina17) 
-| :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/70485830?v=4" width=115><br>Gustavo Molina](https://github.com/gustavomolina17)
+| :---: | 
+
+
