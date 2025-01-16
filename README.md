@@ -6,7 +6,10 @@
 
 # <p align="center">Criando um Roteiro de Viagem - Otimização com Algoritmos Genéticos </p>
 
-A resolução do 2º Tech Challenge encontra-se no jupyter notebook 🐍.
+Nesse repositório encontram-se:
+- [x] A resolução do 2º Tech Challenge no jupyter notebook 🐍.
+- [x] Relatório
+- [x] Vídeo da explicação do projeto: 
 
 # Autor
 
