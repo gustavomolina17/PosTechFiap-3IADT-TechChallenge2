@@ -9,6 +9,7 @@
 Nesse repositório encontram-se:
 - [x] A resolução do 2º Tech Challenge no jupyter notebook 🐍.
 - [x] Relatório
+- [x] Pdf com o enunciado do projeto
 - [x] Vídeo da explicação do projeto: 
 
 # Autor
