@@ -16,7 +16,7 @@ Esse desafio é <b>um exemplo clássico do Problema do Caixeiro Viajante (TSP - 
 
 <b>Objetivo do Projeto</b>
 
-O projeto tem como principal objetivo implementar uma solução computacional que resolva o problema do caixeiro viajante para 5 cidades principais do Brasil, tendo São Paulo como ponto de Partida, representando centros logísticos de grande relevância para a empresa:
+O projeto tem como principal objetivo implementar uma solução computacional que resolva o problema do caixeiro viajante para 8 cidades principais do Brasil, tendo São Paulo como ponto de Partida, representando centros logísticos de grande relevância para a empresa:
 <ul>
 <li>São Paulo (SP)</li>
 <li>Brasília (DF)</li>
