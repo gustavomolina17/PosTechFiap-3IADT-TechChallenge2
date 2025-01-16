@@ -1,5 +1,5 @@
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="https://img.shields.io/badge/FINALIZADO-blue"/>
 </p>
 
 # <p align="center">PosTechFiap-3IADT-TechChallenge2 - Jan / 25 </p>
