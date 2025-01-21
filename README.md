@@ -10,7 +10,8 @@ Nesse repositório encontram-se:
 - [x] A resolução do 2º Tech Challenge no jupyter notebook 🐍.
 - [x] Relatório
 - [x] Pdf com o enunciado do projeto
-- [x] Vídeo da explicação do projeto: 
+- [x] Vídeo da explicação do projeto: https://vimeo.com/1049014032?share=copy#t=0 📼
+ 
 
 # Autor
 
